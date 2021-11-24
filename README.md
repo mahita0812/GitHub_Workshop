@@ -37,3 +37,14 @@
 ### Using images with hyperlink:(![image name](image url))
 ![GitHub Logo](https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU)
 
+### Creating Table:
+Table name|Table content
+----|-----
+lakshmika|1
+smily|2
+smily|3
+smily|4
+smily|5
+
+
+
