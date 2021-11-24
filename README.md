@@ -28,12 +28,12 @@
 - [ ] https://www.youtube.com/
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
-### Nested Lists:
+#### Nested Lists(number.whitespace_statemt\n)(tabspace-whitespace_statement1\n)(2tabspace-whitespace_statement2):
 1. First list item
    - First nested list item
      - Second nested list item
 ### Use Links([link name] no space (link)):
 [GitHub](https://github.com/)
 ### Using images with hyperlink:(![image name](image url))
-![This is an image](https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU)
+![GitHub Logo](https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU)
 
