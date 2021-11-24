@@ -3,7 +3,7 @@
 ### Heading3
 #### Heading4
 ##### Heading5
-####### Heading6
+###### Heading6
 
 *This is italic font with no space with stars*
 
